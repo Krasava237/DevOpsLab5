@@ -4,3 +4,4 @@ fastapi
 anyio
 uvicorn
 pydantic_settings
+click
